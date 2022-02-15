@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430946319238",
+    "project_id": "hilaltaxi-c0589",
+    "storage_bucket": "hilaltaxi-c0589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430946319238:android:2b97e5000b116b3fbc4a07",
+        "android_client_info": {
+          "package_name": "com.example.hilaltaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430946319238-896hgv3qeur6hhd4anho1m3eeb4qvun5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hilaltaxi",
+            "certificate_hash": "fe3c3ce9b6683f8afac241fa941682efd8c3cbe1"
+          }
+        },
+        {
+          "client_id": "430946319238-bohvicfrlvjpsdm0n32mjme4m8t0o67q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wHrQz-Jr0Sy1bmOsNEmKf1v6kfUsqnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430946319238-bohvicfrlvjpsdm0n32mjme4m8t0o67q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
